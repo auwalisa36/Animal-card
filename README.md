@@ -10,7 +10,7 @@ A Animal card home page for any web project.
 
 
 # Project screenshoot
-![This is an alt text](clowncapture.PNG "This is a sample logo")
+![This is an alt text](/assets/images/clowncapture.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/Animal-card.git)
