@@ -10,7 +10,7 @@ A Animal card home page for any web project.
 
 
 # Project screenshoot
-
+![This is an alt text](clowncapture.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/Animal-card.git)
@@ -20,7 +20,7 @@ A Animal card home page for any web project.
 * CSS
 
 # Live Demo
-This is alive demo(https://raw.githack.com/auwalisa36/Animal-card/css-branch/index.html)
+This is alive demo(https://raw.githack.com/auwalisa36/Animal-card/main/index.html)
 
 # Author
 * Olukowajo Funmilola Esther
